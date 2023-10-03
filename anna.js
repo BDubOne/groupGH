@@ -3,3 +3,4 @@ console.log(7*6+30)
 ///added some math to the end 
 
 console.log("anna is ready to go outside")
+console.log(8**2)
