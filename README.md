@@ -1,1 +1,1 @@
-# groupGH
+This is a group page:)
